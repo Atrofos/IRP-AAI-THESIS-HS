@@ -8,14 +8,14 @@
 2. [Tabulated Results](https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/README.md#tabulated-results)
    - [Apple Real World Results](https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/README.md#hugetextcolormaroontextbfapple---real-world)
    - [Apple Simulation Results](https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/README.md#hugetextcolormaroontextbfapple---simulation)
-   - [Banana Real World Results](https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/README.md#hugetextcolormaroontextbfbanana---real-world)
-   - [Banana Simulation Results](https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/README.md#hugetextcolormaroontextbfbanana---simulation)
-   - [Broccoli Real World Results](https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/README.md#hugetextcolormaroontextbfbroccoli---real-world)
-   - [Broccoli Simulation Results](https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/README.md#hugetextcolormaroontextbfbroccoli---simulation)
-   - [Tomato Real World Results](https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/README.md#hugetextcolormaroontextbftomato---real-world)
-   - [Tomato Simulation Results](https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/README.md#hugetextcolormaroontextbftomato---simulation)
-   - [Orange Real World Results](https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/README.md#hugetextcolormaroontextbforange---real-world)
-   - [Orange Simulation Results](https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/README.md#hugetextcolormaroontextbforange---simulation)
+   - [Banana Real World Results](#hugetextcoloryellowtextbfbanana---real-world)
+   - [Banana Simulation Results](#hugetextcoloryellowtextbfbanana---simulation)
+   - [Broccoli Real World Results](#hugetextcolorforestgreentextbfbroccoli---real-world)
+   - [Broccoli Simulation Results](#hugetextcolorforestgreentextbfbroccoli---simulation)
+   - [Tomato Real World Results](#hugetextcolorbrickredtextbftomato---real-world)
+   - [Tomato Simulation Results](#hugetextcolorbrickredtextbftomato---simulation)
+   - [Orange Real World Results](#hugetextcoloryelloworangetextbforange---real-world)
+   - [Orange Simulation Results](#hugetextcoloryelloworangetextbforange--simulation)
    
 ## Aims and Objectives
 ### _**Aims:**_
