@@ -5,15 +5,15 @@
   
 ## Tabulated Results 
 ### Key "N = Low/Medium/High"
-| Altitude (meters) | Class Label (N - Illuminance) | Prediction Confidience Percentage (N - Illuminance)|
-|:-----------------:|:-----------------------------:|:--------------------------------------------------:|
+`| Altitude (meters) | Class Label (N - Illuminance Level) | Prediction Confidience Percentage (N - Illuminance Level)|`
+
 
 
 
 ### $$\Huge\textcolor{Maroon}{\textbf{Apple - Real World}}$$
 |Altitude (m) | Class (Low) | Confidence% (Low) | Class (Medium)  | Confidence% (Medium) | Label (High) | Confidence% (High)|
 |:---------:|:------:|:----------:|:------:|:----------:|:------:|:----------:|
-|  **0.5**  | $$\large\textcolor{yellowgreen}{\textbf{Apple}}$$ |    29.3   | $$\large\textcolor{yellowgreen}{\textbf{Apple}}$$  |    38.8   | $$\large\textcolor{yellowgreen}{\textbf{Apple}}$$ |    42.9   |
+|  **0.5**  | $$\large\textcolor{yellowgreen}{\textbf{Apple}}$$ |    29.3   | $$\large\textcolor{yellowgreen}{\textbf{Apple}}$$  |    38.8   | $$\small\textcolor{yellowgreen}{\textbf{Apple}}$$ |    42.9   |
 |  **1.0**  | $$\large\textcolor{yellowgreen}{\textbf{Apple}}$$ |    34.5   | $$\large\textcolor{yellowgreen}{\textbf{Apple}}$$ |    37.4   | $$\large\textcolor{yellowgreen}{\textbf{Apple}}$$ |    34.8   |
 |  **1.5**  | $$\large\textcolor{yellowgreen}{\textbf{Apple}}$$ |    32.4   | $$\large\textcolor{yellowgreen}{\textbf{Apple}}$$|    35.9   |$$\large\textcolor{yellowgreen}{\textbf{Apple}}$$ |    34.0   |
 |  **2.0**  | $$\large\textcolor{yellowgreen}{\textbf{Apple}}$$ |    29.4   | $$\large\textcolor{salmon}{\textbf{Broccoli}}$$ |    34.6   | $$\large\textcolor{yellowgreen}{\textbf{Apple}}$$|    35.5   |
