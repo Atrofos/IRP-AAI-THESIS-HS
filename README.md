@@ -1,15 +1,32 @@
 # IRP-AAI-THESIS-HS
  Investigation into the correlation between AI in a simulated environment and using a real low-cost UAV
  
- 
-  
+- [Tabulated Results](#Tabulated-Results) 
+- [Apple Real World Results](https://github.com/Atrofos/IRP-AAI-THESIS-HS/edit/main/README.md#hugetextcolormaroontextbfapple---real-world)
+- [Apple Simulation Results](https://github.com/Atrofos/IRP-AAI-THESIS-HS/edit/main/README.md#hugetextcolormaroontextbfapple---simulation)
+
+## Aims and Objectives
+---
+### Aims
+The aim of this thesis is to gain an understanding through an
+investigative experimentation the effectiveness of an object
+detector under varying illumination conditions and altitudes on
+its ability to classify and detect trained targets in a simulated
+and real-world environment by using a camera sensor from a
+UAV to determine if there are any differences.
+### Objectives
+
 ## Tabulated Results 
+
+
+
+
 ### Key "N = Low/Medium/High"
 `| Altitude (meters) | Class Label (N - Illuminance Level) | Prediction Confidience Percentage (N - Illuminance Level)|`
 
 
 
-
+### $$\Huge\textcolor{Maroon}{\textbf{Apple - Real World}}$$
 |Altitude (m) | Class (Low) | Confidence% (Low) | Class (Medium)  | Confidence% (Medium) | Label (High) | Confidence% (High)|
 |:---------:|:------:|:----------:|:------:|:----------:|:------:|:----------:|
 |  **0.5**  | $$\small\textcolor{yellowgreen}{\textbf{Apple}}$$ |    29.3   | $$\small\textcolor{yellowgreen}{\textbf{Apple}}$$  |    38.8   | $$\small\textcolor{yellowgreen}{\textbf{Apple}}$$ |    42.9   |
