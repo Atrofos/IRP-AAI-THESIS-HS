@@ -16,6 +16,10 @@
    - [Orange Real World Results](#hugetextcoloryelloworangetextbforange---real-world)
    - [Orange Simulation Results](#hugetextcoloryelloworangetextbforange---simulation)
    
+3. [Picture Results](#Picture-Results)
+   - [Apple Real World Pictures]()
+     - [Low Illuminance 0.5 - 3.0m]()
+   - [Apple Simulation Pictures]()
 ## Aims and Objectives
 ### _**Aims:**_
 The aim of this thesis is to gain an understanding through an
@@ -184,34 +188,337 @@ reasonings using evidence behind any differences or similarities.
  
 ## Picture Results
 ### $$\Huge\textcolor{Maroon}{\textbf{Apple - Real World Pictures}}$$
-#### 0.5 - 3.0 m (altitude) (low illuminance)
+#### $$\huge\textcolor{Maroon}{\textbf{Low Illuminance 0.5 - 3.0m}}$$
 <p align="center">
-<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Apple/0.5.png" align="center" width="400"/>
- <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Apple/1.0.png" align="center" width="400"/>
- <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Apple/1.5.png" align="center" width="400"/>
- <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Apple/2.0.png" align="center" width="400"/>
- <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Apple/2.5.png" align="center" width="400"/>
- <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Apple/3.0.png" align="center" width="400"/>
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Apple/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Apple/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Apple/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Apple/2.0.png" align="center" width="300">
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Apple/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Apple/3.0.png" align="center" width="300"/>
 </p>
+
+#### $$\huge\textcolor{Maroon}{\textbf{Medium Illuminance 0.5 - 3.0m}}$$
+<p align="center">
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Apple/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Apple/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Apple/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Apple/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Apple/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Apple/3.0.png" align="center" width="300"/>
+</p>
+
+#### $$\huge\textcolor{Maroon}{\textbf{High Illuminance 0.5 - 3.0m}}$$
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Apple/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Apple/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Apple/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Apple/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Apple/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Apple/3.0.png" align="center" width="300"/>
+</p>
+
+---
 
 ### $$\Huge\textcolor{Maroon}{\textbf{Apple - Simulation Pictures}}$$
-#### 0.5 - 3.0
+#### $$\huge\textcolor{Maroon}{\textbf{Low Illuminance 0.5 - 3.0m}}$$
 <p align="center">
-<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Apple/0.5.png" align="center" width="400"/>
- <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Apple/1.0.png" align="center" width="400"/>
- <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Apple/1.5.png" align="center" width="400"/>
- <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Apple/2.0.png" align="center" width="400"/>
- <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Apple/2.5.png" align="center" width="400"/>
- <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Apple/3.0.png" align="center" width="400"/>
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Apple/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Apple/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Apple/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Apple/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Apple/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Apple/3.0.png" align="center" width="300"/>
 </p>
 
+
+
+#### $$\huge\textcolor{Maroon}{\textbf{Medium Illuminance 0.5 - 3.0m}}$$
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Apple/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Apple/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Apple/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Apple/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Apple/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Apple/3.0.png" align="center" width="300"/>
+</p>
+
+#### $$\huge\textcolor{Maroon}{\textbf{High Illuminance 0.5 - 3.0m}}$$
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Apple/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Apple/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Apple/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Apple/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Apple/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Apple/3.0.png" align="center" width="300"/>
+</p>
+
+---
+
 ### $$\Huge\textcolor{yellow}{\textbf{Banana - Real World Pictures}}$$
+#### $$\huge\textcolor{yellow}{\textbf{Low Illuminance 0.5 - 3.0m}}$$
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Banana/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Banana/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Banana/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Banana/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Banana/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Banana/3.0.png" align="center" width="300"/>
+</p>
+
+#### $$\huge\textcolor{yellow}{\textbf{Medium Illuminance 0.5 - 3.0m}}$$
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Banana/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Banana/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Banana/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Banana/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Banana/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Banana/3.0.png" align="center" width="300"/>
+</p>
+
+#### $$\huge\textcolor{yellow}{\textbf{High Illuminance 0.5 - 3.0m}}$$
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Banana/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Banana/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Banana/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Banana/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Banana/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Banana/3.0.png" align="center" width="300"/>
+</p>
+
+---
+
 ### $$\Huge\textcolor{yellow}{\textbf{Banana - Simulation Pictures}}$$
+#### $$\Huge\textcolor{yellow}{\textbf{Low Illuminance 0.5 - 3.0m}}$$
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Banana/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Banana/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Banana/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Banana/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Banana/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Banana/3.0.png" align="center" width="300"/>
+</p>
+
+#### $$\huge\textcolor{yellow}{\textbf{Medium Illuminance 0.5 - 3.0m}}$$
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Banana/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Banana/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Banana/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Banana/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Banana/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Banana/3.0.png" align="center" width="300"/>
+</p>
+
+##### $$\huge\textcolor{yellow}{\textbf{High Illuminance 0.5 - 3.0m}}$$
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Banana/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Banana/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Banana/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Banana/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Banana/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Banana/3.0.png" align="center" width="300"/>
+</p>
+
+---
+
 ### $$\Huge\textcolor{ForestGreen}{\textbf{Broccoli - Real World Pictures}}$$
+
+#### $$\huge\textcolor{ForestGreen}{\textbf{Low Illuminance 0.5 - 3.0m}}$$
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Broccoli/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Broccoli/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Broccoli/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Broccoli/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Broccoli/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Broccoli/3.0.png" align="center" width="300"/>
+</p>
+
+#### $$\huge\textcolor{ForestGreen}{\textbf{Medium Illuminance 0.5 - 3.0m}}$$
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Broccoli/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Broccoli/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Broccoli/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Broccoli/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Broccoli/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Broccoli/3.0.png" align="center" width="300"/>
+</p>
+
+#### $$\huge\textcolor{ForestGreen}{\textbf{High Illuminance 0.5 - 3.0m}}$$
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Broccoli/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Broccoli/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Broccoli/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Broccoli/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Broccoli/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Broccoli/3.0.png" align="center" width="300"/>
+</p>
+
+---
+
 ### $$\Huge\textcolor{ForestGreen}{\textbf{Broccoli - Simulation Pictures}}$$
+#### $$\Huge\textcolor{ForestGreen}{\textbf{Low Illuminance 0.5 - 3.0m}}$$
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Broccoli/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Broccoli/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Broccoli/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Broccoli/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Broccoli/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Broccoli/3.0.png" align="center" width="300"/>
+</p>
+
+#### $$\huge\textcolor{ForestGreen}{\textbf{Medium Illuminance 0.5 - 3.0m}}$$
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Broccoli/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Broccoli/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Broccoli/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Broccoli/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Broccoli/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Broccoli/3.0.png" align="center" width="300"/>
+</p>
+
+##### $$\huge\textcolor{ForestGreen}{\textbf{High Illuminance 0.5 - 3.0m}}$$
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Broccoli/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Broccoli/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Broccoli/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Broccoli/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Broccoli/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Broccoli/3.0.png" align="center" width="300"/>
+</p>
+
+---
+
 ### $$\Huge\textcolor{BrickRed}{\textbf{Tomato - Real World Pictures}}$$
+
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Tomato/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Tomato/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Tomato/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Tomato/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Tomato/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Tomato/3.0.png" align="center" width="300"/>
+</p>
+
+#### $$\huge\textcolor{BrickRed}{\textbf{Medium Illuminance 0.5 - 3.0m}}$$
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Tomato/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Tomato/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Tomato/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Tomato/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Tomato/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Tomato/3.0.png" align="center" width="300"/>
+</p>
+
+##### $$\huge\textcolor{BrickRed}{\textbf{High Illuminance 0.5 - 3.0m}}$$
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Tomato/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Tomato/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Tomato/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Tomato/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Tomato/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Tomato/3.0.png" align="center" width="300"/>
+</p>
+
+---
+
 ### $$\Huge\textcolor{BrickRed}{\textbf{Tomato - Real World Pictures}}$$
+
+#### $$\Huge\textcolor{BrickRed}{\textbf{Low Illuminance 0.5 - 3.0m}}$$
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Tomato/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Tomato/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Tomato/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Tomato/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Tomato/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Tomato/3.0.png" align="center" width="300"/>
+</p>
+
+#### $$\huge\textcolor{BrickRed}{\textbf{Medium Illuminance 0.5 - 3.0m}}$$
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Tomato/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Tomato/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Tomato/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Tomato/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Tomato/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Tomato/3.0.png" align="center" width="300"/>
+</p>
+
+##### $$\huge\textcolor{BrickRed}{\textbf{High Illuminance 0.5 - 3.0m}}$$
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Tomato/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Tomato/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Tomato/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Tomato/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Tomato/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Tomato/3.0.png" align="center" width="300"/>
+</p>
+
+---
+
 ### $$\Huge\textcolor{YellowOrange}{\textbf{Orange - Real World Pictures}}$$
+
+#### $$\Huge\textcolor{Orange}{\textbf{Low Illuminance 0.5 - 3.0m}}$$
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Orange/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Orange/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Orange/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Orange/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Orange/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Orange/3.0.png" align="center" width="300"/>
+</p>
+
+#### $$\huge\textcolor{Orange}{\textbf{Medium Illuminance 0.5 - 3.0m}}$$
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Orange/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Orange/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Orange/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Orange/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Orange/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Medium/Orange/3.0.png" align="center" width="300"/>
+</p>
+
+##### $$\huge\textcolor{Orange}{\textbf{High Illuminance 0.5 - 3.0m}}$$
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Orange/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Orange/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Orange/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Orange/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Orange/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/High/Orange/3.0.png" align="center" width="300"/>
+</p>
+
+---
+
 ### $$\Huge\textcolor{YellowOrange}{\textbf{Orange - Simulation Pictures}}$$
 
+#### $$\Huge\textcolor{YellowOrange}{\textbf{Low Illuminance 0.5 - 3.0m}}$$
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Orange/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Orange/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Orange/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Orange/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Orange/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Orange/3.0.png" align="center" width="300"/>
+</p>
 
+#### $$\huge\textcolor{YellowOrange}{\textbf{Medium Illuminance 0.5 - 3.0m}}$$
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Orange/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Orange/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Orange/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Orange/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Orange/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Medium/Orange/3.0.png" align="center" width="300"/>
+</p>
+
+##### $$\huge\textcolor{YellowOrange}{\textbf{High Illuminance 0.5 - 3.0m}}$$
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Orange/0.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Orange/1.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Orange/1.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Orange/2.0.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Orange/2.5.png" align="center" width="300"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/High/Orange/3.0.png" align="center" width="300"/>
+</p>
+
+---
