@@ -184,7 +184,27 @@ reasonings using evidence behind any differences or similarities.
  
 ## Picture Results
 ### $$\Huge\textcolor{Maroon}{\textbf{Apple - Real World Pictures}}$$
+#### 0.5 - 3.0 m (altitude) (low illuminance)
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Apple/0.5.png" align="center" width="400"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Apple/1.0.png" align="center" width="400"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Apple/1.5.png" align="center" width="400"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Apple/2.0.png" align="center" width="400"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Apple/2.5.png" align="center" width="400"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/RealWorld/Low/Apple/3.0.png" align="center" width="400"/>
+</p>
+
 ### $$\Huge\textcolor{Maroon}{\textbf{Apple - Simulation Pictures}}$$
+#### 0.5 - 3.0
+<p align="center">
+<img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Apple/0.5.png" align="center" width="400"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Apple/1.0.png" align="center" width="400"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Apple/1.5.png" align="center" width="400"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Apple/2.0.png" align="center" width="400"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Apple/2.5.png" align="center" width="400"/>
+ <img src="https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/Simulation/Low/Apple/3.0.png" align="center" width="400"/>
+</p>
+
 ### $$\Huge\textcolor{yellow}{\textbf{Banana - Real World Pictures}}$$
 ### $$\Huge\textcolor{yellow}{\textbf{Banana - Simulation Pictures}}$$
 ### $$\Huge\textcolor{ForestGreen}{\textbf{Broccoli - Real World Pictures}}$$
