@@ -1,12 +1,6 @@
 # Investigation into the correlation between AI in a simulated environment and using a real low-cost UAV
 ##### IRP-AAI-THESIS-HS 
  
-# To-Do:
- 
-- Add in Sections Displaying IMAGES of Tables from Apples to Oranges
-- Add in Sections
-- Add in Mini Tables
-
 1. [Aims and Objectives](https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/README.md#aims-and-objectives)
    - [Aims](https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/README.md#aims)
    - [Objectives](https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/README.md#Objectives)
@@ -187,4 +181,7 @@ reasonings using evidence behind any differences or similarities.
 [Back to Tabulated Results](https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/README.md#tabulated-results)
 ---
  
+ 
+### Picture Results
+
 
