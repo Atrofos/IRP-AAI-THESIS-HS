@@ -182,6 +182,16 @@ reasonings using evidence behind any differences or similarities.
 ---
  
  
-### Picture Results
+## Picture Results
+### $$\Huge\textcolor{Maroon}{\textbf{Apple - Real World Pictures}}$$
+### $$\Huge\textcolor{Maroon}{\textbf{Apple - Simulation Pictures}}$$
+### $$\Huge\textcolor{yellow}{\textbf{Banana - Real World Pictures}}$$
+### $$\Huge\textcolor{yellow}{\textbf{Banana - Simulation Pictures}}$$
+### $$\Huge\textcolor{ForestGreen}{\textbf{Broccoli - Real World Pictures}}$$
+### $$\Huge\textcolor{ForestGreen}{\textbf{Broccoli - Simulation Pictures}}$$
+### $$\Huge\textcolor{BrickRed}{\textbf{Tomato - Real World Pictures}}$$
+### $$\Huge\textcolor{BrickRed}{\textbf{Tomato - Real World Pictures}}$$
+### $$\Huge\textcolor{YellowOrange}{\textbf{Orange - Real World Pictures}}$$
+### $$\Huge\textcolor{YellowOrange}{\textbf{Orange - Simulation Pictures}}$$
 
 
