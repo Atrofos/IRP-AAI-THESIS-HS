@@ -16,12 +16,21 @@
    - [Orange Real World Results](#hugetextcoloryelloworangetextbforange---real-world)
    - [Orange Simulation Results](#hugetextcoloryelloworangetextbforange---simulation)
    
-3. [Picture Results](#Picture-Results)
+3. [Picture Results](#picture-results)
    - [Apple Real World Pictures](#hugetextcolormaroontextbfapple---real-world-pictures)
-     - [Low Illuminance 0.5 - 3.0m](#hugetextcolormaroontextbflow-illuminance-05---30m)
-     - [Medium Illuminance 0.5 - 3.0m](#hugetextcolormaroontextbfmedium-illuminance-05---30m)
-     - [High Illuminance 0.5 - 3.0m](#hugetextcolormaroontextbfhigh-illuminance-05---30m)
-   - [Apple Simulation Pictures]()
+   - [Apple Simulation Pictures](#hugetextcolormaroontextbfapple---simulation-pictures)
+   - [Banana Real World Pictures](#hugetextcoloryellowtextbfbanana---real-world-pictures)
+   - [Banana Simulation Pictures](#hugetextcoloryellowtextbfbanana---simulation-pictures)
+   - [Broccoli Real World Pictures](#hugetextcolorforestgreentextbfbroccoli---real-world-pictures)
+   - [Broccoli Simulation Pictures](#hugetextcolormforestgreentextbfbroccoli---simulation-pictures)
+   - [Tomato Real World Pictures](#hugetextcolorbrickredtextbftomato---real-world-pictures)
+   - [Tomato Simulation Pictures](#hugetextcolorbrickredtextbftomato---simulation-pictures)
+   - [Orange Real World Pictures](#hugetextcoloryelloworangetextbforange---real-world-pictures)
+   - [Orange Simulation Pictures](hugetextcoloryelloworangetextbforange---simulation-pictures)
+
+
+
+
 ## Aims and Objectives
 ### _**Aims:**_
 The aim of this thesis is to gain an understanding through an
@@ -185,10 +194,12 @@ reasonings using evidence behind any differences or similarities.
 
 
 [Back to Tabulated Results](https://github.com/Atrofos/IRP-AAI-THESIS-HS/blob/main/README.md#tabulated-results)
+
 ---
  
  
 ## Picture Results
+
 ### $$\Huge\textcolor{Maroon}{\textbf{Apple - Real World Pictures}}$$
 #### $$\huge\textcolor{Maroon}{\textbf{Low Illuminance 0.5 - 3.0m}}$$
 <p align="center">
